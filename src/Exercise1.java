@@ -51,6 +51,8 @@ public class Exercise1 {
                 ╚══════════════════════════════════════╝
                 """;
 
+
+    // se crea de manera estatica para que pueda se accedido desde todo el programa
     private static final Scanner reader = new Scanner(System.in);
 
     // Método para mostrar Menú
